@@ -8,4 +8,5 @@ arrival location, and time elapsed is explicitly recorded. Bike sharing systems 
 be used for studying mobility in a city. In this competition, participants are asked to combine historical usage patterns with weathe
 data in order to forecast bike rental demand in the Capital Bikeshare program in Washington, D.C.
 
-https://github.com/Abhishek24122000/portfolio.io/blob/main/assets/bikes.png
+
+![bikes](https://github.com/user-attachments/assets/5bd22a86-1f42-42bc-9d17-b5e24c20fc9d)
